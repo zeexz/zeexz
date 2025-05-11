@@ -10,7 +10,7 @@
 1. [Tic-Tac-Toe AI](https://github.com/you/tictactoe) - Python minimax algorithm  
 2. [2D Platformer](https://github.com/you/pygame-jumper) - Simple Pygame experiment  
 
-### 📚 Goals for 2024  
+### 📚 Goals for 2025  
 - Contribute to an open-source project  
 - Build a web portfolio  
 - Learn C++ for game engines  
