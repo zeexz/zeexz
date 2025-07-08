@@ -10,14 +10,6 @@
 
 ---
 
-### 🚧 Beginner-Friendly Projects & Labs  
-1. 🕵️‍♂️ Port Scanner in Python — Simple scanner using `socket`  
-2. 🧪 TryHackMe Labs — Realistic hands-on cyber attack/defense simulations  
-3. 🐍 Python Keylogger (for learning only!) — Built in a sandboxed VM to study input logging  
-4. 🔍 Wireshark Packet Analysis — Captured and analyzed suspicious traffic from a sandboxed virtual network
-
----
-
 ### 🎯 2025 Goals  
 - Master TCP/IP, DNS, and Linux Permissions  
 - Complete TryHackMe’s *Pre-Security* and *Jr Penetration Tester* paths  
