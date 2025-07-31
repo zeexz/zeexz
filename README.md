@@ -1,29 +1,42 @@
-# 👋 Hi, I'm Gihan Hemachandra  
-🔐 **First-Year CS Student** | Exploring Cybersecurity & Ethical Hacking | Building My Digital Defense Toolkit  
+### Hi, I'm Zeexz 👨‍💻
+
+Software Engineer | Computer Science  
+Building with code, one commit at a time
 
 ---
 
-### 🛠️ Cybersecurity Learning Stack  
-- **Languages**: Python, Bash (basic), Java  
-- **Tools**: Wireshark, Nmap, Burp Suite, Kali Linux, Metasploit  
-- **Learning**: Networking Fundamentals, Linux Hardening, OWASP Top 10, Port Scanning, Web App Security
+### 🛠️ Tech Stack
+
+**Languages**  
+JavaScript • Python • Go • Rust  
+
+**Frontend**  
+React • Next.js • Tailwind CSS  
+
+**Backend**  
+Node.js • Express • FastAPI  
+
+**DevOps & Tools**  
+Git • Docker • Linux • GitHub Actions • AWS  
 
 ---
 
-### 🎯 2025 Goals  
-- Master TCP/IP, DNS, and Linux Permissions  
-- Complete TryHackMe’s *Pre-Security* and *Jr Penetration Tester* paths  
-- Build a personal home lab (VMs, firewalls, vulnerable apps)  
-- Contribute to open-source security tools or write documentation  
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=dark&border_color=8a3ff8&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=dark&border_color=8a3ff8&bg_color=0d1117" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zeexz&theme=dark&border_color=8a3ff8&bg_color=0d1117" width="50%" />
+</div>
 
 ---
 
-### 🌍 Real-World Scenarios I’m Exploring  
-- 🧠 How **phishing attacks** trick users and how to simulate/test them in a lab  
-- 🌐 What happens when a web app has an **open port** or **misconfigured headers**  
-- 🧨 How simple **reconnaissance** can lead to major data leaks  
-- 📉 What kind of **log trails attackers leave** and how to detect them using tools like `fail2ban` and `Splunk`
+### 🤝 Connect
 
----
-
-> _Break to build safer_
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile) 
+[<img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />](https://x.com/yourhandle) 
+[<img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />](mailto:hello@zeexz.dev) 
+[<img src="https://img.shields.io/badge/Portfolio-gray?logo=vercel&logoColor=white" />](https://zeexz.dev)
