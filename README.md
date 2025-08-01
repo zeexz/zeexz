@@ -26,9 +26,6 @@
 ### 🌱 My Goal
 > To learn by building, contributing, and connecting with the dev community. This profile will evolve as I grow — stay tuned for projects, blogs, and open-source contributions!
 
-### 📈 Coding Activity
-![WakaTime Chart](https://wakatime.com/share/@zeexz/5b9a3d2d-4cf9-4e82-8a4b-1d5c0d8a1f2c.png)
-
 ### 🧩 Projects?
 <i>Just getting started! My first project is coming soon… 🚧</i>
 
