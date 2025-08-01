@@ -43,9 +43,6 @@
   <a href="https://twitter.com/zeexz" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
   </a>
-  <a href="https://zeexz.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" alt="Portfolio" />
-  </a>
   <a href="https://blog.zeexz.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=md" alt="Blog" />
   </a>
