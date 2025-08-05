@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Zeexz</h1>
+<h1 align="center">👋 Hey, I'm Gihan </h1>
 <h3 align="center">📚 2nd Year Computer Science Student | Exploring the World of Code</h3>
 
 <p align="center">
