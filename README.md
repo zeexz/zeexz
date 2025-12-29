@@ -2,10 +2,6 @@
 <h3 align="center">📚 2nd Year Computer Science Student | Exploring the World of Code</h3>
 
 <p align="center">
-  <i>"Building my journey one line of code at a time."</i>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=onedark" alt="Zeexz Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
