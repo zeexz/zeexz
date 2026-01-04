@@ -1,45 +1,53 @@
-<h1 align="center">👋 Hey, I'm Gihan </h1>
-<h3 align="center">📚 2nd Year Computer Science Student | Exploring the World of Code</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=onedark" alt="Zeexz Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=onedark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeexz&theme=onedark" alt="Streak" />
-</p>
-
-### 🛠️ Currently Exploring
-<p align="center">
-  <i>I'm diving into different technologies to find my passion. Open to all — frontend, backend, AI, cybersecurity, or something entirely new!</i>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,react,nodejs,git,github,vscode" />
-</p>
-
-### 🌱 My Goal
-> To learn by building, contributing, and connecting with the dev community. This profile will evolve as I grow — stay tuned for projects, blogs, and open-source contributions!
-
-### 🧩 Projects?
-<i>Just getting started! My first project is coming soon… 🚧</i>
+# ✦ ZEEXZ ✦
+*Crafting digital experiences with precision and purpose.*
 
 ---
 
-### 🌐 Let's Connect
-<p align="center">
-  <!-- Replace # with your links when ready -->
-  <a href="https://linkedin.com/in/zeexz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/zeexz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" />
-  </a>
-</p>
+[ PROJECTS ](https://github.com/zeexz?tab=repositories) &nbsp; • &nbsp; [ ABOUT ](#-about-me) &nbsp; • &nbsp; [ CONTACT ](#-reach-out)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeexz&label=Profile%20views&color=0e75b6&style=flat" alt="zeexz" />
-</p>
+</div>
+
+## 🫧 The Philosophy
+I am a developer focused on building tools that are as **functional** as they are **beautiful**. I believe in clean code, minimal interfaces, and the power of open-source collaboration.
+
+### 🏗️ Current Focus
+* **Refining:** Improving the performance of [Project Name]
+* **Exploring:** Deep diving into [New Tech, e.g., Rust or WebGPU]
+* **Contributing:** Active member of the [Community Name] ecosystem
+
+---
+
+## 🛠️ Stack & Expertise
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Go, PostgreSQL |
+| **DevOps** | Docker, GitHub Actions, Vercel |
+
+---
+
+## 📈 Activity Context
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=555&text_color=333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" width="45%" />
+</div>
+
+---
+
+## 📮 Reach Out
+If you have an interesting project or just want to chat about tech:
+
+- **Email:** `hello@yourdomain.com`
+- **LinkedIn:** [zeexz](https://linkedin.com/in/yourlink)
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
+  <p><sub>"Simplicity is the ultimate sophistication."</sub></p>
+</div>
