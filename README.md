@@ -1,53 +1,56 @@
+# ✦ zeexz
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-building-white?style=flat-square&color=black" />
+  <img src="https://img.shields.io/github/followers/zeexz?style=flat-square&color=black&label=network" />
+</p>
+
+---
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      
+      ### 01. INTRO
+      I am a developer focused on crafting clean, efficient, and scalable digital solutions. I enjoy solving complex problems and turning ideas into functional code.
+      
+      ### 02. STACK
+      - **Languages:** `JavaScript` `TypeScript` `Python` `C++`
+      - **Frontend:** `React` `Next.js` `TailwindCSS`
+      - **Backend:** `Node.js` `Express` `PostgreSQL`
+      - **Tools:** `Git` `Docker` `Vercel` `Figma`
+
+      ### 03. CONTACT
+      - **Email:** [hello@zeexz.dev](mailto:your@email.com)
+      - **LinkedIn:** [in/zeexz](https://linkedin.com/in/yourprofile)
+      - **Blog:** [zeexz.io](https://zeexz.io)
+
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=000&text_color=444" width="100%" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 SELECTED REPOSITORIES
+
 <div align="center">
 
-# ✦ ZEEXZ ✦
-*Crafting digital experiences with precision and purpose.*
-
----
-
-[ PROJECTS ](https://github.com/zeexz?tab=repositories) &nbsp; • &nbsp; [ ABOUT ](#-about-me) &nbsp; • &nbsp; [ CONTACT ](#-reach-out)
-
----
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Project-One](https://github.com/zeexz/repo)** | A high-performance API wrapper. | `Node.js` |
+| **[Project-Two](https://github.com/zeexz/repo)** | Minimalist portfolio template. | `React` |
 
 </div>
 
-## 🫧 The Philosophy
-I am a developer focused on building tools that are as **functional** as they are **beautiful**. I believe in clean code, minimal interfaces, and the power of open-source collaboration.
-
-### 🏗️ Current Focus
-* **Refining:** Improving the performance of [Project Name]
-* **Exploring:** Deep diving into [New Tech, e.g., Rust or WebGPU]
-* **Contributing:** Active member of the [Community Name] ecosystem
-
 ---
 
-## 🛠️ Stack & Expertise
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Go, PostgreSQL |
-| **DevOps** | Docker, GitHub Actions, Vercel |
-
----
-
-## 📈 Activity Context
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=555&text_color=333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" width="45%" />
-</div>
-
----
-
-## 📮 Reach Out
-If you have an interesting project or just want to chat about tech:
-
-- **Email:** `hello@yourdomain.com`
-- **LinkedIn:** [zeexz](https://linkedin.com/in/yourlink)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-
-<br />
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
-  <p><sub>"Simplicity is the ultimate sophistication."</sub></p>
-</div>
+  <br />
+  <code>"Code is poetry written in logic."</code>
+</p>
