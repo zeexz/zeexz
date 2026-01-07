@@ -20,11 +20,10 @@ CS undergraduate focused on backend fundamentals and clean Java code. <br>Curren
 # 💖 Support My Work
 If you find my projects helpful, consider sponsoring me to support my learning journey and open-source contributions!
 
-<iframe src="https://github.com/sponsors/zeexz/button" title="Sponsor zeexz" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor zeexz](https://img.shields.io/badge/Sponsor-zeexz-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/zeexz)
 
-<br>
-
-<iframe src="https://github.com/sponsors/zeexz/card" title="Sponsor zeexz" height="225" width="600" style="border: 0;"></iframe>
+> [!TIP]
+> **View my full sponsorship profile:** [github.com/sponsors/zeexz](https://github.com/sponsors/zeexz)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zeexz&icon=0&color=0)](https://visitcount.itsvg.in)
