@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Computer Science student at SCU. I build tools that catch problems before they become incidents — CLIs, backends, and mobile apps, across Go, Java, and Kotlin.</h3>
+<h3 align="center">Computer Science student at SCU. I build tools that catch problems before they become incidents CLIs, backends, and mobile apps, across Go, Java, and Kotlin.</h3>
 
 <p align="center">
   <a href="https://github.com/zeexz?tab=followers"><img src="https://img.shields.io/github/followers/zeexz?style=social" alt="GitHub followers"></a>
