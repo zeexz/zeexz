@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">Computer Science student at SCU. I build tools that catch problems before they become incidents CLIs, backends, and mobile apps, across Go, Java, and Kotlin.</h3>
+<h3 align="center">Computer Science student at SCU. I build tools that catch problems before they become incidents — CLIs, backends, and mobile apps, across Go, Java, and Kotlin.</h3>
 
 <p align="center">
   <a href="https://github.com/zeexz?tab=followers"><img src="https://img.shields.io/github/followers/zeexz?style=social" alt="GitHub followers"></a>
@@ -75,12 +75,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeexz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Gihan's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=zeexz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Gihan's GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeexz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeexz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zeexz&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
