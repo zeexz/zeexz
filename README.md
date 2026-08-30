@@ -70,6 +70,11 @@
 - ⚙️ Digging into **low-level systems** — memory management, OS interactions, and how things actually work under the hood.
 - 📖 Currently reinforcing **C/C++ fundamentals** alongside Spring Security and applied cryptography.
 
+### 🕒 Current Time
+<!-- TIME_START -->
+Sunday, August 30, 2026 - 09:30 (Sri Lanka Time)
+<!-- TIME_END -->
+
 ---
 
 ### 📊 GitHub Analytics
