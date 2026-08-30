@@ -105,8 +105,6 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 **[View Repo →](https://github.com/zeexz/zeexz)**
 <!--BUILDING_END-->
 
-<sub>Live Status and Currently Building are auto-refreshed every 30 minutes via GitHub Actions.</sub>
-
 <br>
 
 ## 📊 GitHub Analytics
