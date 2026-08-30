@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1200&color=00F7EF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gihan+%F0%9F%91%8B;Building+Security+Tooling+in+Go+%F0%9F%94%90;Shipping+Backends+with+Java+%2F+Spring+Boot+%E2%98%95;Building+Android+Apps+%F0%9F%93%B1" alt="Typing SVG" />
+<img src="terminal-intro.svg" alt="Terminal intro" width="750" />
 
 **Computer Science student at SCU** — I build tools that catch problems before they become incidents: CLIs, backends, and mobile apps, across Go, Java, and Kotlin.
 
@@ -90,6 +90,22 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 🌤️ Weather    : 🌤️ Mainly Clear, 30°C
 ```
 <!--STATUS_END-->
+
+<br>
+
+## ⚡ Currently Building
+
+<!--BUILDING_START-->
+```text
+📦 Repo     : leakscan
+📝 About    : Local-first secret & credential scanner
+💻 Language : Go
+🕓 Updated  : 3h ago
+```
+**[View Repo →](https://github.com/zeexz/leakscan)**
+<!--BUILDING_END-->
+
+<sub>Live Status and Currently Building are auto-refreshed every 30 minutes via GitHub Actions.</sub>
 
 <br>
 
