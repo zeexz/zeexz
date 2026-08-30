@@ -1,0 +1,59 @@
+name: Update Sri Lanka Time
+
+on:
+  schedule:
+    # Runs every hour at minute 0. 
+    # Change to '*/15 * * * *' if you want it to update every 15 minutes.
+    - cron: '0 * * * *' 
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pytz
+
+      - name: Write Python script
+        run: |
+          cat << 'EOF' > update_time.py
+          import datetime
+          import pytz
+          import re
+
+          # Get current time in Sri Lanka (Asia/Colombo)
+          tz = pytz.timezone('Asia/Colombo')
+          now = datetime.datetime.now(tz)
+          
+          # Format the time (e.g., Sunday, August 30, 2026 - 14:30)
+          time_str = now.strftime("%A, %B %d, %Y - %H:%M (Sri Lanka Time)")
+
+          # Read the README file
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          # Replace the text between the markers
+          pattern = r'(<!-- TIME_START -->\n).*?(\n<!-- TIME_END -->)'
+          new_content = re.sub(pattern, f"\\1{time_str}\\2", content, flags=re.DOTALL)
+
+          # Write the updated content back to the file
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+          EOF
+
+      - name: Run Python script
+        run: python update_time.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update Sri Lanka time in README"
+          file_pattern: README.md
