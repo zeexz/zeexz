@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td valign="top" width="100%">
-      <h3>🔐 leakscan — Local-First Secret & Credential Scanner</h3>
+      <h3>🔐 leakscan Local-First Secret & Credential Scanner</h3>
       <p>
         A fast CLI + interactive TUI, written in Go, that hunts down leaked secrets, API keys, and credentials across your filesystem, full Git history, shell logs, and live process environment. Dual-engine detection (regex + Shannon entropy), zero network calls, and a CI/CD-ready JSON output for gating pull requests on findings.
       </p>
