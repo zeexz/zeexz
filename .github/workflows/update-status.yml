@@ -2,9 +2,8 @@ name: Update Live Status
 
 on:
   schedule:
-    # Runs every 30 minutes
     - cron: "*/30 * * * *"
-  workflow_dispatch: {}  # allows manual trigger from the Actions tab
+  workflow_dispatch: {}
   push:
     branches: [main]
 
@@ -23,7 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Update status block
+      - name: Update status + currently-building blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_status.py
 
       - name: Commit and push if changed
