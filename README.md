@@ -2,7 +2,7 @@
 
 <img src="terminal-intro.svg" alt="Terminal intro" width="750" />
 
-**Computer Science student at SCU** — I build tools that catch problems before they become incidents: CLIs, backends, and mobile apps, across Go, Java, and Kotlin.
+**Computer Science student at SCU.** I build tools that catch problems before they become incidents: CLIs, backends, and mobile apps, across Go, Java, and Kotlin.
 
 <a href="https://github.com/zeexz?tab=followers"><img src="https://img.shields.io/github/followers/zeexz?style=for-the-badge&color=00F7EF&labelColor=0d1117" alt="GitHub followers"></a>
 <a href="https://github.com/zeexz/leakscan/stargazers"><img src="https://img.shields.io/github/stars/zeexz?style=for-the-badge&color=00F7EF&labelColor=0d1117" alt="GitHub stars"></a>
@@ -21,24 +21,24 @@
 
 <br>
 
-## 🔭 Featured Project
+## Featured Project
 
 <table>
 <tr>
 <td width="100%">
 
-### 🔐 leakscan — Local-First Secret & Credential Scanner
+### leakscan: Local-First Secret & Credential Scanner
 
 A fast CLI + interactive TUI, written in Go, that hunts down leaked secrets, API keys, and credentials across your filesystem, full Git history, shell logs, and live process environment.
 
-- **Dual-engine detection** — regex + Shannon entropy
-- **Zero network calls** — fully local-first
-- **CI/CD-ready** — JSON output for gating pull requests on findings
-- **Supply-chain hygiene** — GoReleaser cross-compiled binaries, `cosign` keyless signing, and CycloneDX SBOMs on every release
+- Dual-engine detection using regex and Shannon entropy
+- Zero network calls, fully local-first
+- CI/CD-ready JSON output for gating pull requests on findings
+- Supply-chain hygiene: GoReleaser cross-compiled binaries, cosign keyless signing, and CycloneDX SBOMs on every release
 
-> Early-stage: the core pipeline is covered by unit + fuzz tests, but it hasn't had an external security review yet or been benchmarked for false-positive rates at scale.
+> Early-stage: the core pipeline is covered by unit and fuzz tests, but it hasn't had an external security review yet or been benchmarked for false-positive rates at scale.
 
-**[View Project →](https://github.com/zeexz/leakscan)**
+**[View Project](https://github.com/zeexz/leakscan)**
 
 </td>
 </tr>
@@ -46,24 +46,24 @@ A fast CLI + interactive TUI, written in Go, that hunts down leaked secrets, API
 
 <br>
 
-## 🛠️ Other Projects
+## Other Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗝️ Cipher-Share
-A "burn-after-reading" secure file and text sharing app built with Java 21 and Spring Boot 3. Focuses on self-destructing records and secure data handling.
+### Cipher-Share
+A burn-after-reading secure file and text sharing app built with Java 21 and Spring Boot 3. Focuses on self-destructing records and secure data handling.
 
-**[View Project →](https://github.com/zeexz/Cipher-Share)**
+**[View Project](https://github.com/zeexz/Cipher-Share)**
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Smart-Wallet
+### Smart-Wallet
 An Android expense tracker that pulls in live currency exchange rates and financial news via API integrations.
 
-**[View Project →](https://github.com/zeexz/Smart-Wallet)**
+**[View Project](https://github.com/zeexz/Smart-Wallet)**
 
 </td>
 </tr>
@@ -71,43 +71,45 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 
 <br>
 
-## 📌 About Me
+## About Me
 
-- 🎓 Studying **Computer Science** at **SCU**
-- 🔐 Building security-first tooling — CLI scanners, cryptographic implementations, and safe-by-default systems
-- ☕ Comfortable across **Go**, the **Java ecosystem** (Java 21, Spring Boot 3.x), and **Android/Kotlin**
-- ⚙️ Digging into **low-level systems** — memory management, OS internals, and how things actually work under the hood
-- 📖 Currently reinforcing **C/C++ fundamentals** alongside Spring Security and applied cryptography
+- Studying Computer Science at SCU
+- Building security-first tooling: CLI scanners, cryptographic implementations, and safe-by-default systems
+- Comfortable across Go, the Java ecosystem (Java 21, Spring Boot 3.x), and Android/Kotlin
+- Digging into low-level systems: memory management, OS internals, and how things actually work under the hood
+- Currently reinforcing C/C++ fundamentals alongside Spring Security and applied cryptography
 
 <br>
 
-## 🌍 Live Status
+## Live Status
 
 <!--STATUS_START-->
 ```text
-📍 Location   : Colombo, Sri Lanka
-🕒 Local Time : 15:06, Sunday 30 August 2026
-🌤️ Weather    : 🌤️ Partly Cloudy, 29°C
+Location   : Colombo, Sri Lanka
+Local Time : 15:06, Sunday 30 August 2026
+Weather    : Partly Cloudy, 29°C
 ```
 <!--STATUS_END-->
 
 <br>
 
-## ⚡ Currently Building
+## Currently Building
 
 <!--BUILDING_START-->
 ```text
-📦 Repo     : zeexz
-📝 About    : No description provided.
-💻 Language : Python
-🕓 Updated  : 1m ago
+Repo     : leakscan
+About    : Local-first secret and credential scanner
+Language : Go
+Updated  : 3h ago
 ```
-**[View Repo →](https://github.com/zeexz/zeexz)**
+**[View Repo](https://github.com/zeexz/leakscan)**
 <!--BUILDING_END-->
+
+<sub>Live Status and Currently Building update automatically every 30 minutes.</sub>
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -120,7 +122,7 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
