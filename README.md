@@ -91,8 +91,6 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 ```
 <!--STATUS_END-->
 
-<sub>Auto-refreshed every 30 minutes via GitHub Actions.</sub>
-
 <br>
 
 ## 📊 GitHub Analytics
