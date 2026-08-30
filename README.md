@@ -86,7 +86,7 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 <!--STATUS_START-->
 ```text
 📍 Location   : Colombo, Sri Lanka
-🕒 Local Time : 14:40, Sunday 30 August 2026
+🕒 Local Time : 15:02, Sunday 30 August 2026
 🌤️ Weather    : 🌤️ Partly Cloudy, 29°C
 ```
 <!--STATUS_END-->
@@ -97,12 +97,12 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 
 <!--BUILDING_START-->
 ```text
-📦 Repo     : leakscan
-📝 About    : Local-first secret & credential scanner
-💻 Language : Go
-🕓 Updated  : 3h ago
+📦 Repo     : zeexz
+📝 About    : No description provided.
+💻 Language : Python
+🕓 Updated  : 1m ago
 ```
-**[View Repo →](https://github.com/zeexz/leakscan)**
+**[View Repo →](https://github.com/zeexz/zeexz)**
 <!--BUILDING_END-->
 
 <sub>Live Status and Currently Building are auto-refreshed every 30 minutes via GitHub Actions.</sub>
