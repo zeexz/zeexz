@@ -86,8 +86,8 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 <!--STATUS_START-->
 ```text
 📍 Location   : Colombo, Sri Lanka
-🕒 Local Time : 05:14, Thursday 17 September 2026
-🌤️ Weather    : 🌦️ Moderate Drizzle, 25°C
+🕒 Local Time : 09:33, Thursday 17 September 2026
+🌤️ Weather    : 🌤️ Mainly Clear, 28°C
 ```
 <!--STATUS_END-->
 
@@ -97,12 +97,12 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 
 <!--BUILDING_START-->
 ```text
-📦 Repo     : zeexz
-📝 About    : No description provided.
-💻 Language : Python
-🕓 Updated  : 2h ago
+📦 Repo     : kumana-safari-web
+📝 About    : Commercial website for Safari Service 
+💻 Language : HTML
+🕓 Updated  : 43m ago
 ```
-**[View Repo →](https://github.com/zeexz/zeexz)**
+**[View Repo →](https://github.com/zeexz/kumana-safari-web)**
 <!--BUILDING_END-->
 
 <br>
