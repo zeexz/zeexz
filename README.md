@@ -86,8 +86,8 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 <!--STATUS_START-->
 ```text
 📍 Location   : Colombo, Sri Lanka
-🕒 Local Time : 12:13, Tuesday 22 September 2026
-🌤️ Weather    : 🌦️ Light Drizzle, 28°C
+🕒 Local Time : 17:56, Tuesday 22 September 2026
+🌤️ Weather    : ☁️ Overcast, 28°C
 ```
 <!--STATUS_END-->
 
