@@ -86,8 +86,8 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 <!--STATUS_START-->
 ```text
 📍 Location   : Colombo, Sri Lanka
-🕒 Local Time : 01:09, Wednesday 18 November 2026
-🌤️ Weather    : ☁️ Overcast, 26°C
+🕒 Local Time : 07:42, Wednesday 18 November 2026
+🌤️ Weather    : 🌤️ Partly Cloudy, 26°C
 ```
 <!--STATUS_END-->
 
@@ -97,12 +97,12 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 
 <!--BUILDING_START-->
 ```text
-📦 Repo     : SauceDemo-QA-Suite
-📝 About    : End to end quality assurance project for saucedemo.com
-💻 Language : —
-🕓 Updated  : 2h ago
+📦 Repo     : zeexz
+📝 About    : Github Profile Readme.md
+💻 Language : Python
+🕓 Updated  : 6h ago
 ```
-**[View Repo →](https://github.com/zeexz/SauceDemo-QA-Suite)**
+**[View Repo →](https://github.com/zeexz/zeexz)**
 <!--BUILDING_END-->
 
 <br>
