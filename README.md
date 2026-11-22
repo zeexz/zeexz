@@ -86,8 +86,8 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 <!--STATUS_START-->
 ```text
 📍 Location   : Colombo, Sri Lanka
-🕒 Local Time : 14:06, Sunday 22 November 2026
-🌤️ Weather    : Unavailable
+🕒 Local Time : 22:27, Sunday 22 November 2026
+🌤️ Weather    : 🌤️ Partly Cloudy, 26°C
 ```
 <!--STATUS_END-->
 
@@ -100,7 +100,7 @@ An Android expense tracker that pulls in live currency exchange rates and financ
 📦 Repo     : zeexz
 📝 About    : Github Profile Readme.md
 💻 Language : Python
-🕓 Updated  : 7h ago
+🕓 Updated  : 8h ago
 ```
 **[View Repo →](https://github.com/zeexz/zeexz)**
 <!--BUILDING_END-->
