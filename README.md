@@ -29,10 +29,10 @@ problems in testing: flaky tests, visual regression, and test-case generation.
 
 ## About Me
 
-- 🎓 Computer Science student at **SCU**, based in **Colombo, Sri Lanka**
-- 🧪 Moving into **Quality Engineering** — manual testing fundamentals, test design, and automation
-- 🤖 Exploring **AI/ML for testing** — using data and models to make test suites faster, smarter, and less flaky
-- 🎯 Goal: **QA Engineer / SDET** roles where testing is engineering, not just checking boxes
+- Computer Science student at **SCU**, based in **Colombo, Sri Lanka**
+- Moving into **Quality Engineering** — manual testing fundamentals, test design, and automation
+- Exploring **AI/ML for testing** — using data and models to make test suites faster, smarter, and less flaky
+- Goal: **QA Engineer / SDET** roles where testing is engineering, not just checking boxes
 
 ---
 
@@ -101,9 +101,9 @@ No tutorial clones — a real problem, a real dataset, and honest metrics.
 
 ## Currently
 
-- 🔨 Building: **E2E automation framework** and **API testing suite** (see Featured Projects)
-- 📚 Learning: **ML fundamentals for QA** — classification, evaluation metrics, and flaky-test detection
-- 👀 Open to: **QA Intern · Junior QA Engineer · SDET Intern** opportunities
+- Building: **E2E automation framework** and **API testing suite** (see Featured Projects)
+- Learning: **ML fundamentals for QA** — classification, evaluation metrics, and flaky-test detection
+- Open to: **QA Intern · Junior QA Engineer · SDET Intern** opportunities
 
 ---
 
