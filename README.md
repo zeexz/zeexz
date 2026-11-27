@@ -1,8 +1,6 @@
 <div align="center">
 
-# Gihan Hemachandra
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=650&lines=QA+Engineer+%2F+SDET;Test+Automation+%26+AI+for+Testing;Focused+on+reliable%2C+high-quality+software)](https://github.com/zeexz)
+<img src="https://raw.githubusercontent.com/zeexz/zeexz/main/assets/header.svg" alt="Gihan Hemachandra — QA Engineer / SDET" width="880" />
 
 **Computer Science @ SCU · Colombo, Sri Lanka · Open to QA / SDET internships**
 
