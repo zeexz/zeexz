@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-label="Gihan Hemachandra — QA Engineer / SDET">
+  <style>
+    .name { font: 700 36px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .sub  { font: 400 15px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .mono { font: 400 13px ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+    .file { fill: #58a6ff; }
+    .pass { fill: #3fb950; }
+    .dim  { fill: #8b949e; }
+    .bar  { transform-origin: 60px 158px; animation: grow 8s ease-in-out infinite; }
+    @keyframes grow {
+      0% { transform: scaleX(0); }
+      55% { transform: scaleX(1); }
+      88% { transform: scaleX(1); }
+      96%, 100% { transform: scaleX(0); }
+    }
+    .item { opacity: 0; animation: itemIn 8s ease-in-out infinite; }
+    @keyframes itemIn {
+      0%, 4% { opacity: 0; }
+      10%, 88% { opacity: 1; }
+      96%, 100% { opacity: 0; }
+    }
+    .i2 { animation-delay: 0.9s; }
+    .i3 { animation-delay: 1.8s; }
+    .i4 { animation-delay: 2.7s; }
+    .summary { opacity: 0; animation: sumIn 8s ease-in-out infinite; }
+    @keyframes sumIn {
+      0%, 48% { opacity: 0; }
+      56%, 88% { opacity: 1; }
+      96%, 100% { opacity: 0; }
+    }
+    .dot { transform-origin: 812px 52px; animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.5); opacity: 0.6; }
+    }
+    .run { animation: runBlink 8s linear infinite; }
+    @keyframes runBlink {
+      0%, 52% { opacity: 1; }
+      58%, 88% { opacity: 0; }
+      96%, 100% { opacity: 1; }
+    }
+    .done { opacity: 0; animation: doneIn 8s linear infinite; }
+    @keyframes doneIn {
+      0%, 52% { opacity: 0; }
+      58%, 88% { opacity: 1; }
+      96%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="878" height="238" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle class="dot" cx="812" cy="52" r="7" fill="#3fb950"/>
+  <text class="dim mono" x="716" y="57">● available</text>
+
+  <text class="name" x="40" y="64">Gihan Hemachandra</text>
+  <text class="sub" x="40" y="94">QA Engineer / SDET · Test Automation &amp; AI for Testing · Colombo, Sri Lanka</text>
+
+  <rect x="40" y="114" width="800" height="102" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text class="mono file" x="60" y="141">▶ projects.spec.ts</text>
+  <text class="mono dim run" x="238" y="141">running…</text>
+  <text class="mono pass done" x="238" y="141">✓ completed</text>
+  <text class="mono summary" x="648" y="141"><tspan class="pass" font-weight="700">4 passed</tspan><tspan class="dim"> · 0 failed</tspan></text>
+
+  <rect x="60" y="152" width="760" height="6" rx="3" fill="#30363d"/>
+  <rect class="bar" x="60" y="152" width="760" height="6" rx="3" fill="#3fb950"/>
+
+  <text class="mono pass item"    x="60"  y="192">✓ SauceDemo QA Suite</text>
+  <text class="mono pass item i2" x="268" y="192">✓ leakscan</text>
+  <text class="mono pass item i3" x="392" y="192">✓ Kumana Safari Web</text>
+  <text class="mono pass item i4" x="586" y="192">✓ Smart Wallet</text>
+</svg>
